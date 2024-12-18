@@ -26,8 +26,10 @@
   - Desoldering braid
   - Spring-loaded syringe-type solder-sucker
 
-- **Cleaning Supplies**
+- **Cleaning Supplies: In order of Least to Most Caustic, Respectively**
   - Isopropanol (a.k.a. isopropyl alcohol, IPA) or denatured alcohol (a.k.a. methylated spirit) for cleaning boards
+  - Acetone (It is generally recognized as safe (GRAS) in certain concentrations, with low toxicity, but high flammability)
+  - M.E.K. (Methyl Ethyl Ketone): Use with Caution as this is more caustic than acetone. Use gloves with this solvent.
 
 - **Hand Tools**
   - Small long-nose pliers
