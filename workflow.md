@@ -52,7 +52,7 @@
 
 ## Procedure
 
-1. **Draw Circuit Schematic**  
+1. **Rough Sketch Circuit Schematic/Physical PCB**  
    - Identify the functional requirements of the circuit.  
    - Select key components based on requirements.  
    - Place components in logical groups (e.g., power, signal, output).  
