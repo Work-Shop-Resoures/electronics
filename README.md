@@ -35,6 +35,18 @@ This document serves as a comprehensive resource list for the local maker commun
 - **[Adafruit Learning System](https://learn.adafruit.com/)**  
   Project-based tutorials and guides for building and understanding electronics.
 
+- [Curious Scientist](https://www.youtube.com/@CuriousScientist/videos)
+  YouTuber builds small MCU-powered circuits
+  
+- [Dave Jones](https://www.youtube.com/@EEVblog/search?query=design)
+	YouTuber discusses electronics; here, all videos with "design" in the title
+
+- [Big Clive](https://www.youtube.com/@bigclivedotcom/videos)
+	YouTuber tears down and reverse engineers small electronic devices
+
+- [Carl Bugeja](https://www.youtube.com/@CarlBugeja/videos)
+	YouTuber designs and builds miscellaneous circuits
+
 ---
 
 ## 3. PCB Design Tools and Guidelines
