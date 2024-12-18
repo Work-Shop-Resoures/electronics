@@ -1,6 +1,8 @@
 # PCB Design and Electronics Resources
 
-This document serves as a comprehensive resource list for the local maker community, focusing on PCB design, electronic fundamentals, and components sourcing. Contributions and suggestions are welcome!
+This document is intended to serve as a comprehensive resource list for the local maker community,
+focusing on PCB design, electronic fundamentals, and components sourcing.
+Contributions and suggestions are welcome!
 
 ---
 
