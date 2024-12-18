@@ -1,49 +1,59 @@
-# workflow
-(not yet referenced from elsewhere)
+# Workflow
+*(not yet referenced from elsewhere)*
 
-## what I use
+## What I Use
 
-- UNIX environment with command-line available
-- github account configured for passwordless access
-- KiCad for schematic capture and PCB layout
-- Eclipse for text-file editing including software development
+- **Software and Tools**
+  - UNIX environment with command-line available
+  - GitHub account configured for passwordless access
+  - KiCad for schematic capture and PCB layout
+  - Eclipse for text-file editing, including software development
+  - PDF datasheets and errata for each component used
 
-- PDF datasheets and errata for each component used
-- measuring calipers
-- solderless breadboard and jumper wires for through-hole prototyping
-- breakout boards for components only available as surface-mount
-- development boards for various MCUs
-- programmer/debugger interfaces (usually USB-to-SPI/IIC/USART/SWD/JTAG) for various MCUs
-- temperature-controlled soldering iron
-- flux-core solder on roll
-- hot-air surface-mount-rework station
-- solder paste
-- flux
-- desoldering braid
-- spring-loaded syringe-type solder-sucker
-- isopropanol a.k.a. isopropyl alcohol (IPA), or denatured alcohol a.k.a. methylated spirit, for cleaning boards
-- small long-nose pliers
-- small diagonal cutters or sidecutters
-- tweezers
-- scalpel
-- wire stripper
-- Kapton (heat-resistant film) adhesive tape
+- **Prototyping Tools**
+  - Measuring calipers
+  - Solderless breadboard and jumper wires for through-hole prototyping
+  - Breakout boards for components only available as surface-mount
+  - Development boards for various MCUs
+  - Programmer/debugger interfaces (USB-to-SPI/IIC/USART/SWD/JTAG) for various MCUs
 
-- magnifying glasses
-- optical or electronic microscope
+- **Soldering Equipment**
+  - Temperature-controlled soldering iron
+  - Flux-core solder on roll
+  - Hot-air surface-mount-rework station
+  - Solder paste
+  - Flux
+  - Desoldering braid
+  - Spring-loaded syringe-type solder-sucker
 
-- power supply
-- signal generator
-- multimeter
-- oscilloscope
+- **Cleaning Supplies**
+  - Isopropanol (a.k.a. isopropyl alcohol, IPA) or denatured alcohol (a.k.a. methylated spirit) for cleaning boards
 
-## procedure
+- **Hand Tools**
+  - Small long-nose pliers
+  - Small diagonal cutters or sidecutters
+  - Tweezers
+  - Scalpel
+  - Wire stripper
+  - Kapton (heat-resistant film) adhesive tape
 
-1 draw circuit schematic
-2 draw planned outline of PCB
-3 shuffle components into place, attempting to minimize "rat's nest" of connections
-4 adjust size/shape of PCB if things don't fit; goto 3
-5 select different components if things don't fit; goto 3
-6 run copper tracks between components
-7 adjust size/shape of PCB if things don't fit; goto 3
-8 select different components if things don't fit; goto 3
+- **Magnification**
+  - Magnifying glasses
+  - Optical or electronic microscope
+
+- **Test Equipment**
+  - Power supply
+  - Signal generator
+  - Multimeter
+  - Oscilloscope
+
+## Procedure
+
+1. Draw circuit schematic.
+2. Draw planned outline of PCB.
+3. Shuffle components into place, attempting to minimize the "rat's nest" of connections.
+4. Adjust size/shape of PCB if things don't fit; go to step 3.
+5. Select different components if things don't fit; go to step 3.
+6. Run copper tracks between components.
+7. Adjust size/shape of PCB if things don't fit; go to step 3.
+8. Select different components if things don't fit; go to step 3.
