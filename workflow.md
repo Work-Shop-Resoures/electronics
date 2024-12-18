@@ -41,7 +41,8 @@
 
 - **Magnification**
   - Magnifying glasses
-  - Optical or electronic microscope
+  - Optical microscope
+  - Electronic microscope
 
 - **Test Equipment**
   - Power supply
