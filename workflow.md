@@ -23,7 +23,7 @@
   - Hot-air surface-mount-rework station
   - Solder paste
   - Flux
-  - Desoldering braid
+  - Desoldering braid (Solder Wick)
   - Spring-loaded syringe-type solder-sucker
 
 - **Cleaning Supplies: In order of Least to Most Caustic, Respectively**
