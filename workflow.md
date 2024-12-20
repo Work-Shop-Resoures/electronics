@@ -6,6 +6,7 @@
 - **Software and Tools**
   - UNIX environment with command-line available
   - GitHub account configured for passwordless access
+  - EastEDA for Web UI Board Design with connections to JLCPCB
   - KiCad for schematic capture and PCB layout
   - Eclipse for text-file editing, including software development
   - PDF datasheets and errata for each component used
@@ -49,6 +50,12 @@
   - Signal generator
   - Multimeter
   - Oscilloscope
+
+- **Safety Equipment**
+ - Gloves
+ - Fume Extractor
+ - Fire Extinguisher
+ - 
 
 ## Procedure
 
