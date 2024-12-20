@@ -49,6 +49,6 @@
   - Oscilloscope
 
 - **Safety Equipment**
- - Gloves
- - Fume Extractor
- - Fire Extinguisher
+   - Gloves
+   - Fume Extractor
+   - Fire Extinguisher
