@@ -21,12 +21,22 @@ Explore the principles of iterative design, focusing on:
 
 ## C Programming
 Understand how to use C programming for embedded systems and PCB projects, including:
+- General coding best practices
+  - Dipping your toes into Data Structures & Algorithms
+  - System Design
+  - Writing Good Tests / Compiling Often
+  - Design Patterns
 - Basics of embedded C.
 - Hardware interfacing.
 - Debugging techniques.
+- Reference materials:
+    - **[Beginner Friendly C Programming Course](https://youtu.be/8STscVFaKXw?si=oduYcniAp_Ho4szN)**
+    - 
 
 ## Circuit Design Fundamentals & Theory
 - **Component Procurement/Sourcing**: Strategies for finding and selecting reliable components.
+  - [EasyEDA Beginner's Tutorial](https://youtu.be/aI2frXzm8EU?si=6-1NU1o8OwS5DINB)
+  - [LCSC Component Library (Directly Connected to EasyEDA WebUI)]()
 - Learn the core concepts of circuit design:
   - Ohm's Law and Kirchhoff's Laws.
   - Passive and active components.
