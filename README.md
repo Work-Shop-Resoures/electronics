@@ -1,30 +1,45 @@
-# PCB Design and Electronics Resources
+# PCB Engineering Repository
 
-This document is intended to serve as a comprehensive resource list for the local maker community,
-focusing on PCB design, electronic fundamentals, and components sourcing.
-Contributions and suggestions are welcome!
-
----
+Welcome to the **PCB Engineering Repository**! This project aims to provide an in-depth guide to designing, building, and understanding printed circuit boards (PCBs). Whether you are a beginner or a seasoned engineer, you'll find valuable insights and resources here.
 
 ## Table of Contents
-1. [Getting Started with Electronics](#getting-started-with-electronics)
-2. [Educational Resources](#educational-resources)
-3. [PCB Design Tools and Guidelines](#pcb-design-tools-and-guidelines)
-4. [Component Sourcing and Libraries](#component-sourcing-and-libraries)
-5. [Community and Learning Platforms](#community-and-learning-platforms)
+1. [Iterative Design Theory](#iterative-design-theory)
+2. [C Programming](#c-programming)
+3. [Circuit Design Fundamentals & Theory](#circuit-design-fundamentals--theory)
+4. [PCB Design Fundamentals & Theory](#pcb-design-fundamentals--theory)
+5. [Soldering Fundamentals](#soldering-fundamentals)
+6. [Additional Misc Information](#additional-misc-information)
+7. [Reference List](#reference-list)
 
 ---
 
-## 1. Getting Started with Electronics
+## Iterative Design Theory
+Explore the principles of iterative design, focusing on:
+- Prototyping and testing cycles.
+- Design for manufacturability (DFM).
+- Optimizing design through continuous feedback.
+
+## C Programming
+Understand how to use C programming for embedded systems and PCB projects, including:
+- Basics of embedded C.
+- Hardware interfacing.
+- Debugging techniques.
+
+## Circuit Design Fundamentals & Theory
+- **Component Procurement/Sourcing**: Strategies for finding and selecting reliable components.
+- Learn the core concepts of circuit design:
+  - Ohm's Law and Kirchhoff's Laws.
+  - Passive and active components.
+  - Signal integrity and noise considerations.
+
+### Getting Started with Electronics
 - **[An Introduction to Electronics (OpenLearn)](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/content-section-0)**  
   A beginner-friendly course introducing fundamental concepts of electronics.
 
 - **[Where Do I Start? (SparkFun)](https://learn.sparkfun.com/tutorials/where-do-i-start/all)**  
   A guided path for beginners to explore electronics and get hands-on with projects.
 
----
-
-## 2. Educational Resources
+### Educational Resources
 - **[Electronics Tutorials](https://www.electronics-tutorials.ws/)**  
   In-depth tutorials on various electronic concepts, from basics to advanced topics.
 
@@ -37,21 +52,27 @@ Contributions and suggestions are welcome!
 - **[Adafruit Learning System](https://learn.adafruit.com/)**  
   Project-based tutorials and guides for building and understanding electronics.
 
-- [Curious Scientist](https://www.youtube.com/@CuriousScientist/videos)
-  YouTuber builds small MCU-powered circuits
-  
-- [Dave Jones](https://www.youtube.com/@EEVblog/search?query=design)
-	YouTuber discusses electronics; here, all videos with "design" in the title
+- [Curious Scientist](https://www.youtube.com/@CuriousScientist/videos)  
+  YouTuber builds small MCU-powered circuits.
 
-- [Big Clive](https://www.youtube.com/@bigclivedotcom/videos)
-	YouTuber tears down and reverse engineers small electronic devices
+- [Dave Jones](https://www.youtube.com/@EEVblog/search?query=design)  
+  YouTuber discusses electronics; here, all videos with "design" in the title.
 
-- [Carl Bugeja](https://www.youtube.com/@CarlBugeja/videos)
-	YouTuber designs and builds miscellaneous circuits
+- [Big Clive](https://www.youtube.com/@bigclivedotcom/videos)  
+  YouTuber tears down and reverse engineers small electronic devices.
+
+- [Carl Bugeja](https://www.youtube.com/@CarlBugeja/videos)  
+  YouTuber designs and builds miscellaneous circuits.
 
 ---
 
-## 3. PCB Design Tools and Guidelines
+## PCB Design Fundamentals & Theory
+Gain insights into PCB design processes:
+- Layer stacking and routing strategies.
+- Thermal management techniques.
+- Industry standards and best practices.
+
+### PCB Design Tools and Guidelines
 - **[Footprint Expert Surface Mount Families PDF](https://www.pcblibraries.com/Products/FPX/UserGuide/download/Footprint%20Expert%20Surface%20Mount%20Families.pdf)**  
   A detailed guide for creating standardized PCB footprints.
 
@@ -63,14 +84,27 @@ Contributions and suggestions are welcome!
 
 ---
 
-## 4. Component Sourcing and Libraries
-*(Consider adding links to common part suppliers like DigiKey, Mouser, or a list of free/paid footprint libraries)*
+## Soldering Fundamentals
+Master soldering techniques for PCB assembly:
+- Through-hole vs. surface-mount soldering.
+- Proper equipment and tool usage.
+- Tips for rework and repair.
 
----
+## Additional Misc Information
+A collection of additional tips, tricks, and tools for PCB engineering, including:
+- Recommended software tools.
+- Useful libraries and resources.
+- Community and forum links.
 
-## 5. Community and Learning Platforms
+### Community and Learning Platforms
 - **[Open Community Collaboration Platforms](#)**  
-  *(Placeholder for future links to online forums, maker communities, and collaborative design spaces)*
+  *(Placeholder for future links to online forums, maker communities, and collaborative design spaces.)*
+
+## Reference List
+A curated list of resources to deepen your knowledge:
+- Books, papers, and online articles.
+- Tutorials and video guides.
+- Manufacturer datasheets and application notes.
 
 ---
 
@@ -78,4 +112,3 @@ Contributions and suggestions are welcome!
 If you have suggestions or resources to add, please submit a pull request or create an issue. We value your input to help this list grow!
 
 ---
-
