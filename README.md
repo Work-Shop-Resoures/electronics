@@ -31,7 +31,7 @@ Understand how to use C programming for embedded systems and PCB projects, inclu
 - Debugging techniques.
 - Reference materials:
     - **[Beginner Friendly C Programming Course](https://youtu.be/8STscVFaKXw?si=oduYcniAp_Ho4szN)**
-    - 
+    - [lots of C reference stuff](http://www.lysator.liu.se/c/index.html)
 
 ## Circuit Design Fundamentals & Theory
 - **Component Procurement/Sourcing**: Strategies for finding and selecting reliable components.
