@@ -14,6 +14,7 @@
   - Breakout boards for components only available as surface-mount
   - Development boards for various MCUs
   - Programmer/debugger interfaces (USB-to-SPI/IIC/USART/SWD/JTAG) for various MCUs
+e.g. https://www.amazon.com/dp/B09DVMQTTH
 
 - **Soldering Equipment**
   - Temperature-controlled soldering iron
