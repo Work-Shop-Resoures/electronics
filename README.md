@@ -119,6 +119,7 @@ A curated list of resources to deepen your knowledge:
 - [low-budget USB, LCD, and touch sensor](https://github.com/cnlohr/ch32v003_3digit_lcd_usb/) using CH32V003
 - [lightweight development environment](https://github.com/cnlohr/ch32v003fun) for CH32V003
 - [another "how to build an e-badge" guide](https://github.com/cnlohr/swadgeguide)
+- [insane MCU-driven tiny decorative blinkies](https://youtu.be/jis1MC5Tm8k)
 
 ---
 
