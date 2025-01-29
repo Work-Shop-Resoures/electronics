@@ -100,6 +100,10 @@ Master soldering techniques for PCB assembly:
 - Proper equipment and tool usage.
 - Tips for rework and repair.
 
+some historical videos from Tektronix (makers of top quality test gear, among other things)
+- [Solder And Its Application In Electrical Assembly 1977](https://youtu.be/yZSveVpgmIM)
+- [Making Quality Circuit Board Repairs 1980](https://youtu.be/jMchFqu3Jx0)
+
 ## Additional Misc Information
 A collection of additional tips, tricks, and tools for PCB engineering, including:
 - Recommended software tools.
