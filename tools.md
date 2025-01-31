@@ -17,7 +17,7 @@
 e.g. https://www.amazon.com/dp/B09DVMQTTH
 
 - **Soldering Equipment**
-  - Temperature-controlled soldering iron
+  - Temperature-controlled soldering iron (https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
   - Flux-core solder on roll
   - Hot-air surface-mount-rework station
   - Solder paste
