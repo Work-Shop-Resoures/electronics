@@ -32,6 +32,7 @@ Understand how to use C programming for embedded systems and PCB projects, inclu
 - Reference materials:
     - **[Beginner Friendly C Programming Course](https://youtu.be/8STscVFaKXw?si=oduYcniAp_Ho4szN)**
     - [lots of C reference stuff](http://www.lysator.liu.se/c/index.html)
+    - [Driving Compilers](https://fabiensanglard.net/dc/)
 
 ## Circuit Design Fundamentals & Theory
 - **Component Procurement/Sourcing**: Strategies for finding and selecting reliable components.
@@ -109,6 +110,8 @@ A collection of additional tips, tricks, and tools for PCB engineering, includin
 - Recommended software tools.
 - Useful libraries and resources.
 - Community and forum links.
+
+- [tips for circuit board design](https://www.multi-circuit-boards.eu/en/pcb-design-aid/introduction.html)
 
 ### Community and Learning Platforms
 - **[Open Community Collaboration Platforms](#)**  
