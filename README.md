@@ -130,6 +130,7 @@ A curated list of resources to deepen your knowledge:
 - [make a derivative design from an existing PCB](https://youtu.be/Qxn_yGog9Lc)
 - [Explore the fundamentals of electronics with "Circuit Playground," a video series by Adafruit](https://youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5Hu)
 
+- [collection of documentation](https://tayloredge.com/)
 
 
 ---
