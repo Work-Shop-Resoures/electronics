@@ -1,4 +1,4 @@
-## What I Use
+## What We Use
 
 - **Software and Tools**
   - UNIX environment with command-line available
